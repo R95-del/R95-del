@@ -8,6 +8,6 @@
    <a href="https://instagram.com/somanirishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi" height="30" width="40" /></a>
 </p>
 <p align="center">
-   <img align="center" src="https://streak-stats.demolab.com/?user=R95-del&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=R95-del)](https://git.io/streak-stats)
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=R95-del&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shobhits7" /> </p>
