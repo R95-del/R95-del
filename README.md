@@ -5,6 +5,7 @@
 - 💬 Ask me about **Ruby on Rails, Python **
 
 - 📫 How to reach me **somani.rishi81@gmail.com**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=R95-del&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="R95-del" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +18,4 @@
 <p align="center">
    <img align="center" src="https://streak-stats.demolab.com/?user=R95-del&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=R95-del&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="R95-del" /> </p>
+
